@@ -1,0 +1,36 @@
+.verde{
+  background-color: green;
+  height:80px;
+  border: 8px solid black;
+}
+
+.rojo{
+  background-color: red;
+  min-height: 400px;
+  border: 8px solid black; ;
+}
+
+.rosa{
+  background-color: pink;
+  height: 80px;
+  border: 8px solid black;
+}
+
+.salmon{
+  background-color: salmon;
+  height: 80px;
+  border: 8px solid black;
+}
+
+.blanco{
+  background-color: white;
+  height: 80px;
+  border: 8px solid black;
+}
+
+
+.azul{
+  background-color: blue;
+  height: 80px;
+  border: 8px solid black;
+}
